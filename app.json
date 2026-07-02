@@ -1,0 +1,28 @@
+{
+  "name": "WhatsApp Anti-Delete Bot",
+  "description": "WhatsApp bot inayorudisha ujumbe uli futwa (Delete for Everyone) kwa kutumia Pairing Code.",
+  "repository": "https://github.com/mrxdev2/DARKX-ULTRA",
+  "logo": "https://node-js-logo.png",
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "anti-delete",
+    "node.js"
+  ],
+  "success_url": "/",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "addons": [],
+  "env": {
+    "NODE_ENV": {
+      "description": "Mfumo wa kuendesha app (weka production)",
+      "value": "production",
+      "required": false
+    }
+  }
+}
